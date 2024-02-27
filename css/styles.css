@@ -1,0 +1,10 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(177, 177, 78);
+  overflow: hidden;
+  height: 100%;
+  animation:none;
+}
+
